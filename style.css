@@ -1,0 +1,27 @@
+body{
+    background-image: url(./img/winter-snow.jpg);
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: bisque;
+    background-color: darkslategray;
+}
+
+.rubrik{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 7px solid black;
+    padding-bottom: 10px;
+}
+
+ul{
+    background-color: darkslategray;
+    border: 2px solid yellow;
+    color: white;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
